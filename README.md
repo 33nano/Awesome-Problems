@@ -5,6 +5,7 @@ The Human Brain was built for Problem Solving
 
 [Privacy](#privacy)
 [Management](#management)
+[Earth](#earth)
 
 ### Privacy
 
@@ -14,3 +15,7 @@ No Exif Camera - Take photos without metadata
 ### Management
 
 <!-- Credential Manager • Like a password manager/ cloud storage for your credentials; Online course certificates, open badges, bitdegrees, Nano degrees, Academia Credentials --> 
+
+### Earth
+
+Double Sided windmill with solar panels - Triple energy output
