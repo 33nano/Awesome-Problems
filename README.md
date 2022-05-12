@@ -4,7 +4,13 @@ The Human Brain was built for Problem Solving
 ## Table of Contents
 
 [Privacy](#privacy)
+[Management](#management)
 
 ### Privacy
 
 No Exif Camera - Take photos without metadata
+
+
+### Management
+
+<!-- Credential Manager • Like a password manager/ cloud storage for your credentials; Online course certificates, open badges, bitdegrees, Nano degrees, Academia Credentials --> 
