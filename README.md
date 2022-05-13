@@ -19,3 +19,8 @@ No Exif Camera - Take photos without metadata
 ### Earth
 
 Double Sided windmill with solar panels - Triple energy output
+
+
+### Related
+
+[Billion Dollar App Ideas](https://gist.github.com/33nano/3e63a661eea229840e91a165291cf9f0)
